@@ -1,6 +1,6 @@
 # Search Engine From Scratch
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/search_engine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Charvim0412/search-engine-from-scratch/blob/main/search_engine.ipynb)
 
 An inverted-index search engine built with only the Python standard library
 (plus a stemmer), tested on the 20 Newsgroups dataset (~18k documents).
